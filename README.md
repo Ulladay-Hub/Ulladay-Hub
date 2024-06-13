@@ -9,3 +9,6 @@ I'm bradinator, and I'm a weird 14-year-old! I identify as they/them, and I'm an
 I'm currently working on some projects like Indigo and Sponge. Indigo is a futuristic terminal program I'm doing solo. Sponge is a Rust module I started recently, and it's for converting Rust to Assembly. I'm trying to learn C++, but I already know Rust, Python, and Scratch. If anyone wants to tutor me, I would be soooo happy! 😊
 
 I'm looking to colaborate on Sponge if anyone wants to help. You can reach me at [imnotamilkglass@gmail.com](mailto:imnotamilkglass@gmail.com). My discord is: @sirbradinator
+
+
+![My pfp](pfp.png)
