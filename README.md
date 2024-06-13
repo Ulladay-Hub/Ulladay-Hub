@@ -11,4 +11,4 @@ I'm currently working on some projects like Indigo and Sponge. Indigo is a futur
 I'm looking to colaborate on Sponge if anyone wants to help. You can reach me at [imnotamilkglass@gmail.com](mailto:imnotamilkglass@gmail.com). My discord is: @sirbradinator
 
 
-![My pfp](nico wanshot.png)
+![My pfp](nico-wanshot.png)
