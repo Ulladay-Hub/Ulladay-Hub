@@ -1,5 +1,12 @@
+[hi](https://github-readme-stats.vercel.app/api?username=Ulladay-Hub)
+
+
+
 ## Hi there 👋
 
+I'm bradinator, and I am a weird 14 year old. I identify as they/them, and I am a intresting high school student. I started coding when I was 9, and I started doing Scratch ([this is my account btw](https://scratch.mit.edu/users/UdayFromYouTube/))
+
+I'm currently working on some projects like indigo and sponge. Indigo is a futuristic terminal program I am working on solo. Sponge is a rust module I started quite recently, and it's for converting Rust to Assembly. I am trying to learn C++, but I already know Rust, Python, and Scratch. If anyone wants to tutor me, I would be happy. I'm looking to collaborate on 
 <!--
 **Ulladay-Hub/Ulladay-Hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
