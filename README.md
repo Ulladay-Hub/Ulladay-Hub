@@ -1,5 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ulladay-Hub&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ulladay-Hub&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ulladay-Hub&layout=compact&hide=Makefile)
 ---
 
 ## Hi there 👋
